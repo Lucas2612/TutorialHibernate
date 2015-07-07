@@ -1,0 +1,8 @@
+Hibernate tutorial
+
+Parte 1
+
+arquivo Event.hbm.xml na pasta resource e hibernate.cfg.xml apontando pra ele
+verificar pom - versão das libs
+
+1.1.6 - copiar arquivo log4j para o diretorio src\main\resources
